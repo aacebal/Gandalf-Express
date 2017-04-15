@@ -1,0 +1,21 @@
+body {
+  background-image: url('../images/gandalf-home.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.container{
+  height: inherit;
+}
+
+a{
+  position: relative;
+  bottom: -20px;
+}
+
+img{
+  float: left;
+  max-width: 1024px;
+  padding: 50px;
+}
